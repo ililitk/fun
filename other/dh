@@ -1,0 +1,6 @@
+<!Doctype Html>
+<head>
+<title>特别关心查看</title>
+<script>
+alert("本网站仅供娱乐，禁止用于犯罪行为")
+</script>
